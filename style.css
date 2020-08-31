@@ -1,0 +1,142 @@
+body{
+    
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: white;
+}
+h1{
+    font-size: 90px;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive
+}
+h2{
+    color: #11999E;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.top-container{
+    
+    position: relative;
+    padding-top: 100px;
+    background-color: #EAF6F6;
+}
+.middle-container{
+    margin: 100px 0px; 
+
+   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px;
+    margin: none;
+}
+.footer-link{
+    padding: 0px 10px 0px 10px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: whitesmoke;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+#talha{
+    max-width:10%;
+    height:auto;;
+    
+}
+#Talha-2{
+    color: #206a5d;
+    display: inline-block;
+    
+   
+}
+#Talha-2:hover{
+    text-shadow: 2px 2px 5px #206a5d;
+}
+.pencil {
+    max-width:100%;
+    height:auto;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.article {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+a{
+    color: #11999E;
+}
+.designer{
+    font-weight: normal;
+}
+.designer:hover{
+    text-shadow: 2px 2px 5px  #11999E; 
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    padding-top: 50px;
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.Eating-Burgers{
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #e3dfc8;
+    border-width: 5px;
+    width: 5%;
+    margin-top:40px;
+    margin-bottom: 40px;
+    
+}
+#hr-2{
+    line-height: 1;
+    margin-bottom: 50px;
+}
+.btn{
+    text-decoration: none ;
+    font-family: 'Lobster', cursive;
+    font-size: 22px;
+    
+}
+.btn:hover{
+    text-shadow: 2px 2px 5px #11999E;
+}
+.p{
+    width: 50%;
+}
+#last{
+    font-size: 0.7rem;
+    padding: 20px;
+    text-decoration: none;
+}
